@@ -1,15 +1,15 @@
-# Basic Ecommerce
+# Basic Ecommerce developed with React and Tailwind.
 
-Este proyecto es un e-commerce básico hecho con React y estilizado con Tailwind. El objetivo del proyecto es aplicar distintos conceptos de React y demostrar cómo se pueden utilizar junto con Tailwind para crear una tienda en línea atractiva. La página permite a los usuarios navegar por los productos disponibles, agregarlos al carrito de compras y manejar los distintos estados del carrito.
+This project is a basic e-commerce site developed with React and styled with Tailwind. The goal of the project is to apply different concepts of React and demonstrate how they can be used together with Tailwind to create an attractive online store. The website allows users to browse available products, add them to the shopping cart and manage the different states of the cart.
 
-**VISTA:**
+**VIEW:**
 
 [![Captura-de-pantalla-2023-03-28-172439.png](https://i.postimg.cc/QCzB5MRy/Captura-de-pantalla-2023-03-28-172439.png)](https://postimg.cc/p5DXMPVf)
 
-Productos:
+PRODUCTS:
 
 [![Captura-de-pantalla-2023-03-28-172521.png](https://i.postimg.cc/wx4RnW7Q/Captura-de-pantalla-2023-03-28-172521.png)](https://postimg.cc/JtJhk53s)
 
-Vista del producto:
+PRODUCT VIEW:
 
 [![Captura-de-pantalla-2023-03-28-172551.png](https://i.postimg.cc/KvK3bnTS/Captura-de-pantalla-2023-03-28-172551.png)](https://postimg.cc/zVrGSHp0)
